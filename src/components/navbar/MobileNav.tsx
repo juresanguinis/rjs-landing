@@ -26,7 +26,7 @@ export default function MobileNav() {
 
         {/* Mobile Menu */}
         <Sheet open={open} onOpenChange={setOpen}>
-          <SheetTrigger>
+          <SheetTrigger aria-label="Right Navigation Menu Button">
             <Menu className="text-js-black w-8 h-8" />
           </SheetTrigger>
           <SheetContent side="right" className="bg-js-platinum text-js-black p-6">
