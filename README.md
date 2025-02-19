@@ -32,7 +32,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 |--- /help		
 |--- /news
 |--- /resources
-|--- /steps
+|--- /tracker
 |-- /assets		-> Private project assets folder
 |-- /components		-> This folder will hold any component developed for any of the pages sections.
 |--- /loader		-> This folder contains all the files needed for the Loader component and an index.tsx file where the main component is exported.
@@ -51,3 +51,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 |---- aoi.constants.ts	-> This file would contain any constant used for API related things.
 
 ```
+
+## WiP:
+- Finish News section.
+- Finish Tracker app.
