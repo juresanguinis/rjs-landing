@@ -31,7 +31,7 @@ export default function HeroSection() {
         className="mt-6"
       >
         <Link
-          href="/steps"
+          href="/about-js"
           className="px-6 py-3 bg-js-green text-js-platinum rounded-lg text-lg font-semibold hover:bg-opacity-90 transition duration-200"
         >
           Start Your Journey
