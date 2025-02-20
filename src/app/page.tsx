@@ -26,9 +26,9 @@ export const metadata: Metadata = {
     siteName: "Jure Sanguinis Guide",
     images: [
       {
-        url: "/assets/JS_banner_208_desktop.png",
-        width: 1200,
-        height: 630,
+        url: "https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75",
+        width: 256,
+        height: 256,
         alt: "Jure Sanguinis - Italian Citizenship Guide",
       },
     ],
