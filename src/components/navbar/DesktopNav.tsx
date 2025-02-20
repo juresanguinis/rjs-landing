@@ -11,7 +11,7 @@ export default function DesktopNav() {
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.3, ease: "easeInOut" }}
-      className="fixed top-0 w-full bg-js-platinum shadow-md z-50"
+      className="fixed top-0 w-screen bg-js-platinum shadow-md z-50"
     >
       <div className="container mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
