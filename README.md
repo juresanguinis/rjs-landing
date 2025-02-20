@@ -1,6 +1,6 @@
 # **Jure Sanguinis Landing Page**
 
-[![Test Build](https://github.com/juresanguinis/rjs-landing/actions/workflows/test-build.yml/badge.svg)](https://github.com/juresanguinis/rjs-landing/actions/workflows/test-build.yml)  
+[![Test Build](https://github.com/juresanguinis/rjs-landing/actions/workflows/node.js.yml/badge.svg)](https://github.com/juresanguinis/rjs-landing/actions/workflows/node.js.yml)  
 [![PageSpeed Insights - Mobile](https://img.shields.io/badge/Google%20Pagespeed-Mobile-blue)](https://pagespeed.web.dev/analysis/https-www-rjuresanguinis-com/eca0mq4onz?form_factor=mobile)  
 [![PageSpeed Insights - Desktop](https://img.shields.io/badge/Google%20Pagespeed-Desktop-green)](https://pagespeed.web.dev/analysis/https-www-rjuresanguinis-com/eca0mq4onz?form_factor=desktop)
 
