@@ -16,17 +16,17 @@ This is the official landing page for the **Jure Sanguinis subreddit**, a commun
 ### **Development Setup**
 To run the project locally:
 
-\`\`\`bash
+```bash
 npm install
 npm run dev
-\`\`\`
+```
 
-Then visit **\`http://localhost:3000\`** in your browser.
+Then visit **`http://localhost:3000`** in your browser.
 
 ### **Build for Production**
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ## **🔹 Tech Stack**
 - **Framework**: Next.js 14
@@ -42,7 +42,7 @@ npm run build
 ## **📁 Project File Structure**
 A **general overview** of the project’s structure:
 
-\`\`\`
+```
 /public              → Public assets (icons, images, etc.)
 /src
   ├── /app          → App folder containing routes & pages
@@ -65,7 +65,7 @@ A **general overview** of the project’s structure:
   ├── /utils
   │   ├── /constants → Global constants
   │   ├── /__api__   → API calls (if applicable)
-\`\`\`
+```
 
 ---
 
@@ -80,8 +80,8 @@ A **general overview** of the project’s structure:
 
 ## **✅ GitHub Actions (CI/CD)**
 This repository has a **GitHub Action** that runs automated tests and build verification on every:
-- **Commit to \`main\` and \`develop\`**
-- **Pull Request to \`main\` and \`develop\`**
+- **Commit to `main` and `develop`**
+- **Pull Request to `main` and `develop`**
 
 **Test Build Action Status:**  
 [![Test Build](https://github.com/juresanguinis/rjs-landing/actions/workflows/test-build.yml/badge.svg)](https://github.com/juresanguinis/rjs-landing/actions/workflows/test-build.yml)
@@ -91,20 +91,20 @@ This repository has a **GitHub Action** that runs automated tests and build veri
 ## **🛠️ Work In Progress (WIP)**
 These are the **features currently under development**:
 
-- **📰 Finish the News Section** – Implement structured content for community updates.
-- **📊 Develop the Tracker App** – Build a tool to track Jure Sanguinis application progress.
+- **📰 Finish the News Section** - Implement structured content for community updates.
+- **📊 Develop the Tracker App** - Build a tool to track Jure Sanguinis application progress.
 
 ---
 
 ## **📜 License**
-This project is **open-source** and follows an appropriate license for contribution. See the \`LICENSE\` file for more details.
+This project is **open-source** and follows an appropriate license for contribution. See the `LICENSE` file for more details.
 
 ---
 
 ### **💡 Want to Contribute?**
 We welcome contributions! If you have suggestions or want to improve the project:
 1. Fork the repository
-2. Create a new branch (\`feature/new-feature\`)
+2. Create a new branch (`feature/new-feature`)
 3. Commit your changes
 4. Open a **Pull Request**
 
@@ -113,8 +113,8 @@ For questions or discussions, contact the **Moderators Team** at [r/juresanguini
 ---
 
 ### **🔹 Summary of Improvements**
-✅ **Better Introduction** – Describes the purpose of the project.  
-✅ **Project Structure Overview** – Gives clarity without listing every file.  
-✅ **Performance Tracking** – Displays Google PageSpeed Insights reports.  
-✅ **CI/CD Information** – Shows GitHub Actions build status.  
-✅ **Work In Progress Features** – Keeps track of ongoing developments.  
+✅ **Better Introduction** - Describes the purpose of the project.  
+✅ **Project Structure Overview** - Gives clarity without listing every file.  
+✅ **Performance Tracking** - Displays Google PageSpeed Insights reports.  
+✅ **CI/CD Information** - Shows GitHub Actions build status.  
+✅ **Work In Progress Features** - Keeps track of ongoing developments.  
