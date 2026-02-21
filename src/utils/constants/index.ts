@@ -7,3 +7,4 @@ export { ABOUT_STEPS } from './about.constants';
 export { EMBEDED_POSTS } from './community.constants';
 export { FAQ } from "./faq.constants";
 export { RESOURCES } from "./resources.constants";
+export { NEWS_ITEMS } from "./news.constants";

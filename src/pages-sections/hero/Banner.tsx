@@ -9,7 +9,7 @@ import mobileBanner from '@/assets/JS_banner_mobile.jpg';
 
 export default function Banner() {
   return (
-    <section className="relative w-screen h-[50vh] md:h-[10vh] overflow-hidden">
+    <section className="relative w-screen h-[28vh] md:h-[16vh] overflow-hidden">
       <Link href="https://www.reddit.com/r/juresanguinis/" target="_blank" rel="noopener noreferrer">
         <Image
           src={desktopBanner}

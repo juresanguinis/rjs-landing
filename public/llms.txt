@@ -1,0 +1,29 @@
+# Jure Sanguinis Guide
+
+> A guide to claiming Italian citizenship by descent, with eligibility basics, resources, community highlights, and monthly news.
+
+This site provides practical, community-informed guidance for Jure Sanguinis applicants. Use the pages below for overviews, curated resources, and updates.
+
+## Core pages
+
+- [Home](https://rjuresanguinis.com/): High-level overview and entry points
+- [About Jure Sanguinis](https://rjuresanguinis.com/about-js): Eligibility and process basics
+- [Resources](https://rjuresanguinis.com/resources): Curated tools and guides
+- [FAQ](https://rjuresanguinis.com/faq): Common questions and answers
+- [Community](https://rjuresanguinis.com/community): Reddit highlights and discussions
+- [News](https://rjuresanguinis.com/news): Monthly news briefings
+- [Tracker](https://rjuresanguinis.com/tracker): Application tracker status
+
+## LLM-friendly markdown
+
+- [Home (markdown)](https://rjuresanguinis.com/index.html.md): LLM-optimized overview
+- [About (markdown)](https://rjuresanguinis.com/about-js/index.html.md): Eligibility and process summary
+- [Resources (markdown)](https://rjuresanguinis.com/resources/index.html.md): Resource hub summary
+- [FAQ (markdown)](https://rjuresanguinis.com/faq/index.html.md): Common questions summary
+- [Community (markdown)](https://rjuresanguinis.com/community/index.html.md): Community highlights summary
+- [News (markdown)](https://rjuresanguinis.com/news/index.html.md): Monthly news summary
+- [Tracker (markdown)](https://rjuresanguinis.com/tracker/index.html.md): Tracker status summary
+
+## Optional
+
+- [Sitemap](https://rjuresanguinis.com/sitemap.xml): Full site index

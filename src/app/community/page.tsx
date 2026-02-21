@@ -32,6 +32,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "Community Discussions – Jure Sanguinis Reddit Highlights",
+    description:
+      "Stay informed with trending discussions, expert advice, and real-world experiences about obtaining Italian citizenship by descent.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/community",
+  },
 };
 
 export default function CommunityPage() {

@@ -7,8 +7,14 @@ import Navbar from "@/components/navbar";
 const bentham = Bentham({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
-  title: "Jure Sanguinis - Italian Citizenship Guide",
-  description: "Discover how to claim your Italian citizenship through Jure Sanguinis with our detailed guides and community support.",
+  metadataBase: new URL("https://rjuresanguinis.com"),
+  title: {
+    default: "Jure Sanguinis - Italian Citizenship Guide",
+    template: "%s | Jure Sanguinis",
+  },
+  description:
+    "Discover how to claim your Italian citizenship through Jure Sanguinis with our detailed guides and community support.",
+  applicationName: "Jure Sanguinis Guide",
   keywords: [
     "Jure Sanguinis",
     "Italian Citizenship",
@@ -16,6 +22,37 @@ export const metadata: Metadata = {
     "Italian Descent",
     "Citizenship by Blood",
   ],
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Jure Sanguinis - Italian Citizenship Guide",
+    description:
+      "Discover how to claim your Italian citizenship through Jure Sanguinis with our detailed guides and community support.",
+    url: "https://rjuresanguinis.com/",
+    siteName: "Jure Sanguinis Guide",
+    images: [
+      {
+        url: "/logo.png",
+        width: 256,
+        height: 256,
+        alt: "Jure Sanguinis - Italian Citizenship Guide",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Jure Sanguinis - Italian Citizenship Guide",
+    description:
+      "Discover how to claim your Italian citizenship through Jure Sanguinis with our detailed guides and community support.",
+    images: ["/logo.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({

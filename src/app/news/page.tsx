@@ -27,6 +27,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "News & Updates - Jure Sanguinis",
+    description:
+      "Check out the latest news and updates about Italian citizenship by descent, legal changes, and community insights.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/news",
+  },
 };
 
 export default function NewsPage() {
