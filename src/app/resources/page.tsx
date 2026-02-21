@@ -27,6 +27,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "Resources – Jure Sanguinis",
+    description:
+      "Browse our collection of helpful tools and guides designed to make your Jure Sanguinis journey easier.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/resources",
+  },
 };
 
 export default function ResourcesPage() {

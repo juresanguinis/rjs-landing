@@ -27,6 +27,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "Frequently Asked Questions – Jure Sanguinis",
+    description:
+      "Explore our FAQ section to get answers to your questions about Italian citizenship by descent.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/faq",
+  },
 };
 
 export default function FAQPage() {

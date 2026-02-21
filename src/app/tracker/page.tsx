@@ -27,6 +27,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "Tracker - Jure Sanguinis",
+    description:
+      "The Jure Sanguinis application tracker is currently under construction. Stay tuned for updates.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/tracker",
+  },
 };
 
 export default function TrackerPage() {

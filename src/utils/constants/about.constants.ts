@@ -3,9 +3,9 @@ export const ABOUT_STEPS = [
     title: "Step 0: Before You Begin",
     description: "Understand the process and community rules before posting.",
     links: [
-      { label: "Community Rules", href: "https://www.reddit.com/r/juresanguinis/wiki/community_rules" },
+      { label: "Community Rules", href: "https://www.reddit.com/r/juresanguinis/wiki/rules" },
       { label: "FAQ", href: "https://www.reddit.com/r/juresanguinis/wiki/faq" },
-      { label: "Post Flair Guidelines", href: "https://www.reddit.com/r/juresanguinis/wiki/post_flair_guidelines" },
+      { label: "Post Flair Guidelines", href: "https://www.reddit.com/r/juresanguinis/wiki/flair/" },
     ],
   },
   {

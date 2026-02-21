@@ -84,7 +84,7 @@ This repository has a **GitHub Action** that runs automated tests and build veri
 - **Pull Request to `main` and `develop`**
 
 **Test Build Action Status:**  
-[![Test Build](https://github.com/juresanguinis/rjs-landing/actions/workflows/test-build.yml/badge.svg)](https://github.com/juresanguinis/rjs-landing/actions/workflows/test-build.yml)
+[![Test Build](https://github.com/juresanguinis/rjs-landing/actions/workflows/node.js.yml/badge.svg)](https://github.com/juresanguinis/rjs-landing/actions/workflows/node.js.yml)  
 
 ---
 
@@ -93,6 +93,11 @@ These are the **features currently under development**:
 
 - **📰 Finish the News Section** - Implement structured content for community updates.
 - **📊 Develop the Tracker App** - Build a tool to track Jure Sanguinis application progress.
+
+---
+
+## **🗓️ Monthly Maintenance**
+Keep the site current with the checklist in [THINGS_TO_UPDATE_EVERY_MONTH.md](THINGS_TO_UPDATE_EVERY_MONTH.md).
 
 ---
 

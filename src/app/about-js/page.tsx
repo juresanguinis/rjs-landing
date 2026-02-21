@@ -33,6 +33,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "About Jure Sanguinis - Italian Citizenship by Descent",
+    description:
+      "Explore everything about Jure Sanguinis, from eligibility to application steps, and learn how to claim your Italian citizenship through ancestry.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/about-js",
+  },
 };
 
 export default function AboutPage() {

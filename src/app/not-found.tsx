@@ -1,8 +1,13 @@
 import NotFoundSection from "@/pages-sections/not-found/NotFound";
+import type { Metadata } from "next";
 
-export const metadata = {
-  title: "404 - Page Not found",
-  description: "Seems like you are looking for a page that doesn't exist or was moved."
+export const metadata: Metadata = {
+  title: "404 - Page Not Found",
+  description: "The page you are looking for does not exist or has moved.",
+  robots: {
+    index: false,
+    follow: false,
+  },
 };
 
 export default function NotFound() {

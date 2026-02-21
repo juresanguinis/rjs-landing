@@ -34,6 +34,16 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "Jure Sanguinis - Claim Your Italian Citizenship by Descent",
+    description:
+      "Learn how to claim your Italian citizenship through Jure Sanguinis. Follow our step-by-step guide, understand eligibility, and join a supportive community.",
+    images: ["https://www.rjuresanguinis.com/_next/image?url=%2Flogo.png&w=256&q=75"],
+  },
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function HeroPage() {
